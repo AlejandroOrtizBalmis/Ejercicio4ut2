@@ -1,0 +1,14 @@
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\MainWindow.g.cs
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\App.g.cs
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4_MarkupCompile.cache
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4_MarkupCompile.lref
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\MainWindow.baml
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.g.resources
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\alext\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
